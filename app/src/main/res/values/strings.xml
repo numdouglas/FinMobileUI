@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinMobile UI</string>
+    <string name="password_hint">password</string>
+    <string name="password_value">PASSWORD</string>
+    <string name="username_value">USERNAME</string>
+    <string name="username_hint">username</string>
+    <string name="check_status">check status</string>
+    <string name="connect_bridge">connect bridge</string>
+    <string name="disconnect_bridge">disconnect bridge</string>
+    <string name="transaction_report">Transaction report</string>
+    <string name="atm_locators">ATM Locations</string>
+    <string name="change_pin">Change Pin</string>
+    <string name="log_in">LOGIN</string>
+</resources>
